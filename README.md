@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OGharshal
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on any webdev project
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c++
 - 📫 How to reach me- Discord tag= OGharshal#8708
 
 <!---
