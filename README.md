@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OGharshal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
-- 📫 How to reach me- Discord tag= OGharshal#8708
+- 🌱 I’m currently learning java, dsa and web development
 
 <!---
 OGharshal/OGharshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
