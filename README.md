@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OGharshal
+- 👋 Hi, I’m @HarshalSankanna
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, dsa and web development
 
